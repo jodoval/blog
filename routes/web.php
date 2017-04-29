@@ -12,7 +12,4 @@ Route::post('crear','PostController@crearPost');
 Route::post('editar','PostController@postEditar');
 
 
-//ejemplo de pasar en la funcion una variable
-// Route::get('about',function(){
-//   return view ('about',['nombre'=>'ABOUT']);
-// });
+
